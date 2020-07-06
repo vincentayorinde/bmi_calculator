@@ -1,5 +1,5 @@
 # BMI Calculator
-- An app that helps anyone calculater their Body Max Index
+- An app that helps anyone calculator their Body Max Index
 
 ## How to run
 
